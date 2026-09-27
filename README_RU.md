@@ -29,13 +29,13 @@
 ## Скриншоты
 
 ### Одиночный режим
-![Одиночный режим](assets/screenshots/single-en.jpg)
+![Одиночный режим](assets/screenshots/single-en.png)
 
 ### Мульти-режим
-![Мульти-режим](assets/screenshots/multi-en.jpg)
+![Мульти-режим](assets/screenshots/multi-en.png)
 
 ### Мульти-рендер в процессе
-![Мульти-рендер в процессе](assets/screenshots/multi-render-en.jpg)
+![Мульти-рендер в процессе](assets/screenshots/multi-render-en.png)
 
 ## Скачать
 
