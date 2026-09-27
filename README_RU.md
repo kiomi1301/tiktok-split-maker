@@ -1,5 +1,8 @@
 # TikTok Split Maker
 
+![GitHub Release](https://img.shields.io/github/v/release/kiomi1301/tiktok-split-maker)
+![Downloads](https://img.shields.io/github/downloads/kiomi1301/tiktok-split-maker/total)
+
 Быстрая Windows-программа для объединения основного видео с gameplay / satisfying видео снизу в вертикальные ролики **1080×1920**.
 
 **Автор:** [kiomi](https://github.com/kiomi1301)  
