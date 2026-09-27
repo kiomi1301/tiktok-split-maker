@@ -29,13 +29,13 @@ A fast Windows desktop tool for combining a main video with a secondary gameplay
 ## Screenshots
 
 ### Single mode
-![Single mode](assets/screenshots/single-en.jpg)
+![Single mode](assets/screenshots/single-en.png)
 
 ### Multi mode
-![Multi mode](assets/screenshots/multi-en.jpg)
+![Multi mode](assets/screenshots/multi-en.png)
 
 ### Batch render in progress
-![Batch render in progress](assets/screenshots/multi-render-en.jpg)
+![Batch render in progress](assets/screenshots/multi-render-en.png)
 
 ## Download
 
