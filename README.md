@@ -26,6 +26,17 @@ A fast Windows desktop tool for combining a main video with a secondary gameplay
 - Safe queue cancellation that keeps completed clips and removes the incomplete one
 - Fully self-contained Windows release: Python and FFmpeg do **not** need to be installed by the end user
 
+## Screenshots
+
+### Single mode
+![Single mode](assets/screenshots/single-en.png)
+
+### Multi mode
+![Multi mode](assets/screenshots/multi-en.png)
+
+### Batch render in progress
+![Batch render in progress](assets/screenshots/multi-render-en.png)
+
 ## Download
 
 Open the **Releases** page and download:
