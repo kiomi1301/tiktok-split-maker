@@ -1,5 +1,8 @@
 # TikTok Split Maker
 
+![GitHub Release](https://img.shields.io/github/v/release/kiomi1301/tiktok-split-maker)
+![Downloads](https://img.shields.io/github/downloads/kiomi1301/tiktok-split-maker/total)
+
 A fast Windows desktop tool for combining a main video with a secondary gameplay / satisfying video into vertical **1080×1920** clips.
 
 **Author:** [kiomi](https://github.com/kiomi1301)  
